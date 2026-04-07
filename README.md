@@ -27,27 +27,23 @@ Materials-Data-Explorer
 
 <table width="100%" cellspacing="0" cellpadding="5">
   <tr>
-   <td align="center">
-  <img src="images/Al_structure.png" alt="Aluminum" width="100%">
-</td>
-<td align="center">
-  <img src="images/GaN_structure.png" alt="GaN" width="100%">
-</td>
+    <td align="center"><strong>純鋁 (Al) - FCC 結構</strong></td>
+    <td align="center"><strong>氮化鎵 (GaN) - Wurtzite 結構</strong></td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="images/Al_structure.png" alt="Aluminum Structure" width="100%">
+      <img src="Al_structure.png" alt="Aluminum Structure" width="100%">
     </td>
     <td align="center" valign="top">
-      <img src="images/GaN_structure.png" alt="GaN Structure" width="100%">
+      <img src="GaN_structure.png" alt="GaN Structure" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <p><em>FCC 結構。Materials Project ID: mp-134。展現出高對稱性的單胞原子排列。</em></p>
+      <p><em>Materials Project ID: mp-134</em></p>
     </td>
     <td align="center" valign="top">
-      <p><em>纖鋅礦結構。Materials Project ID: mp-804。一個非對稱的六方體系，關鍵的半導體材料。</em></p>
+      <p><em>Materials Project ID: mp-804</em></p>
     </td>
   </tr>
 </table>
