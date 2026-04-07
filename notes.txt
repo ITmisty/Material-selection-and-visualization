@@ -1,0 +1,2 @@
+C:\Users\oem\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/oem/Desktop/My project/Python practice/02_File Append.py"
+Misty
