@@ -21,8 +21,10 @@ The following table shows the top 5 materials in the Li-Fe-O system ranked by st
 | LiFe5O8 | 0.00 | 4.29 | 0.000 |
 | LiFeO2 | 2.10 | 4.35 | 0.000 |
 
+
 ★Crystal Visualization
 The following are screenshots of interactive crystal models generated using `py3Dmol` . By utilizing HTML tables, we can effectively compare different structural systems side-by-side.
+
 
 <table width="100%" cellspacing="0" cellpadding="5">
   <tr>
