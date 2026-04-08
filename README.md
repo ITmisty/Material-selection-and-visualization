@@ -15,6 +15,7 @@ Leverage `pymatgen` to interface with the Materials Project database, automating
 3. Stability Screening: Automatically calculate $E_{above\_hull}$ and identify stable phases.
 
 ★Experimental Results
+
 The following table shows the top 5 materials in the Li-Fe-O system ranked by stability:
 
 | Formula | Band Gap (eV)| Density (g/cm³) | Stability (E_hull) |
